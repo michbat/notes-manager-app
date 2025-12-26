@@ -1,0 +1,21 @@
+.logo_container {
+  display: flex;
+
+  width: fit-content;
+  cursor: pointer;
+}
+
+.logo_image {
+  height: 40px;
+}
+
+.logo_text {
+  font-size: 30px;
+  font-weight: 700;
+  color: #0d6efd;
+}
+
+.logo_subtitle {
+  color: #b8b8b8;
+  word-wrap: break-word;
+}

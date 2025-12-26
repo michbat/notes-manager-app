@@ -1,7 +1,5 @@
-import "./App.css";
+import "typeface-roboto";
 
-export const App = ()=> {
+export const App = () => {
   return <></>;
-}
-
-
+};

@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "First Note",
+      "content": "This is the content of the first note.",
+      "createdAt": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Second Note",
+      "content": "This is the content of the second note.",
+      "createdAt": "2024-06-16T11:30:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Third Note",
+      "content": "This is the content of the first note.",
+      "createdAt": "2024-09-19T11:00:00Z"
+    }
+  ]
+}
